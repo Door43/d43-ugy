@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ugy:home|Door43 (ugy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ugy|d43-ugy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ugy/archive/master.zip|d43-ugy.zip]]
+
+**Recent Changes**
+{{changes>ns = ugy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ugy|Ethnologue data]]
+
